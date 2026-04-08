@@ -1,6 +1,6 @@
 # Welcome to my page! I hope you enjoy reading it!
 
-I am *** excited *** to be in CSE 110 <sub>although I am ready to go on summer break... <sub>
+I am ***excited*** to be in CSE 110 <sub>although I am ready to go on summer break... <sub>
 
 
 # About me!
@@ -31,11 +31,11 @@ The most recent concert I have attended is Kanye West @ SoFi Stadium (so cool)
 [Here is a picture from  the concert!](./assets/kanye1.jpeg)
 
 Some of my favorite bands (in no specific order) include:
--Gorillaz
--Radiohead
--The Marias
--The Beatles
--MGMT
+- Gorillaz
++ Radiohead
+* The Marias
+- The Beatles
+- MGMT
 
 
 My top 3 favorite video games are:
@@ -47,9 +47,9 @@ My top 3 favorite video games are:
 
 My goals for Spring quarter are (most likely):
 
-[] Become an Academic Weapon
-[x] Sleep a normal amount everyday
-[] Go outside more :beetle:
+- [] Become an Academic Weapon
+- [x] Sleep a normal amount everyday
+- [] Go outside more :beetle:
 
 
 If you would like to read this again, the shortcut to the top is right here! 
